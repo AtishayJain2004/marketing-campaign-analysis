@@ -27,3 +27,11 @@ The Power BI dashboard provides interactive insights into:
 - Customer spending behavior
 - Purchase channels
 - Campaign performance
+
+## Dashboard Preview
+
+### Customer Overview
+![Customer Overview](dashboard_page1.png)
+
+### Campaign Insights
+![Campaign Insights](dashboard_page2.png)
